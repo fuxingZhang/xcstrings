@@ -1,0 +1,732 @@
+{
+    "sourceLanguage": "en",
+    "version": "1.0",
+    "strings": {
+        "%lld%@": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "new",
+                        "value": "%1$lld%2$@"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "%lld%@"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "App Icon": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "App Icon"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "应用图标"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Appearance": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Appearance"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "皮肤主题"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Close": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Close"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "关闭"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Contact Developer": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Contact Developer"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "联系开发者"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Distance Unit Display": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Distance Unit Display"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "距离单位显示"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Icon Switch Failed": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Icon Switch Failed"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "图标切换失败"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Locating": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Locating"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "定位中"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Location Marker": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Location Marker"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "位置标记"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Mark Color": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Mark Color"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "标记颜色"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Mark Style": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Mark Style"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "标记样式"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Navigation Animation": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Navigation Animation"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "导航动画"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Navigation Setting": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Navigation Setting"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "导航设置"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Notice: %@": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Notice: %@"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Notice: %@"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "OK": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "OK"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "确定"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Reset": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Reset"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "重置"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Route Steps": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Route Steps"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "路线步骤"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Search": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Search"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "搜索"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Search Text": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Search Text"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "搜索关键字"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Settings": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Settings"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "设置"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Software Customization": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Software Customization"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "软件定制"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Tip": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Tip"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "使用提示"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "Transport Type": {
+            "comment": null,
+            "extractionState": null,
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Transport Type"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "交通方式"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "any": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "any"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "自动选择"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "automobile": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "automobile"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "驾车"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "dark": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Dark"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "深色"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "gentle": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "gentle"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "柔和"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "light": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Light"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "浅色"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "modern": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "modern"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "现代"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "system": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Automatic"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "跟随系统"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "transit": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "transit"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "公共交通"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "walking": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "walking"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "步行"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        },
+        "washroom": {
+            "comment": null,
+            "extractionState": "manual",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "washroom"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "卫生间"
+                    },
+                    "variations": null,
+                    "substitutions": null
+                }
+            }
+        }
+    }
+}
